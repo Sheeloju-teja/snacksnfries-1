@@ -6,4 +6,3 @@
   class="w-screen h-screen bg-cover bg-center"
   style="background-image: url('{bgImage}')">
 </div>
-<h1>hello world</h1>
